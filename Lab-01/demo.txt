@@ -1,7 +1,2 @@
 Hello World!!
-APAP 2018
-<<<<<<< HEAD
-Tutorial 1: Git
-=======
-Saya Arri Kurniawan, kamu siapa?
->>>>>>> 5a731fc67eee6a0bfdb17e446733e02ab8e67f69
+APAP 2018 - Scenario 3
