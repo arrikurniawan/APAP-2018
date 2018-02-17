@@ -2,5 +2,5 @@ Hello World!!
 APAP 2018 - Scenario 3
 Mahasiswa 2 : Ramadhana Ibnu Akbar
 Mahasiswa 1: Arri Kurniawan
-APAP 2018 - Scenario 4
+APAP 2018 Scenario 4
 Branching and Merging
